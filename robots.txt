@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /deployment/
+Disallow: /cloudflare/
+Disallow: /documentation/
+
+Sitemap: https://eastbridge.vn/sitemap.xml
+Sitemap: https://eastbridge.my/sitemap-my.xml
+Sitemap: https://eastbridge.sg/sitemap-sg.xml

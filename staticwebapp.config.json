@@ -1,0 +1,10 @@
+{
+  "navigationFallback": {"rewrite": "/404.html", "exclude": ["/assets/*", "/*.xml", "/*.txt"]},
+  "globalHeaders": {
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
+  },
+  "mimeTypes": {".webp": "image/webp"}
+}
