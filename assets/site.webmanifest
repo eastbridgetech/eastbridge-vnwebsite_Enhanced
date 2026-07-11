@@ -1,0 +1,12 @@
+{
+  "name": "EastBridge Technologies",
+  "short_name": "EastBridge",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#061b43",
+  "description": "Enterprise applications, ERP, CRM, integration, automation, AI, advisory and training for Vietnam and ASEAN.",
+  "icons": [
+    {"src":"images/eastbridge-logo-transparent.png","sizes":"any","type":"image/png","purpose":"any maskable"}
+  ]
+}
